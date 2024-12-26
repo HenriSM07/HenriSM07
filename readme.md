@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Henri and I'm a front-end developer from Brazil</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=4493F8&width=900&height=90&lines=Hi%2C+my+name+is+Henri.;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 ###
 
