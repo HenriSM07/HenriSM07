@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=4493F8&width=900&height=90&lines=Hi%2C+my+name+is+Henri.;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
----
 
 <h2 align="left">🛠️ Technologies I work with:</h2>
 
-<div align="left">
+<div align="center">
   <!-- Linguagens e Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
@@ -65,7 +64,6 @@
   <img src="https://komarev.com/ghpvc/?username=HenriSM07&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
----
 
 <h3 align="left">📬 Let's connect:</h3>
 
@@ -78,7 +76,6 @@
   </a>
 </div>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriSM07/HenriSM07/output/github-contribution-grid-snake-dark.svg">
