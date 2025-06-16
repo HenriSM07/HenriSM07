@@ -77,11 +77,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
-
----
-
-<h3>☕ Let's grab a coffee?</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Let's%20grab%20a%20coffee-%F0%9F%8D%BA-brightgreen?style=for-the-badge" height="35" />
-</div>
