@@ -77,11 +77,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/HenriSM07/HenriSM07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
