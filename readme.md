@@ -3,7 +3,7 @@
 </a>
 
 <br />
-
+{/*
 <h2 align="left">🛠️ Technologies I work with:</h2>
 <br />
 <div align="center">
@@ -56,7 +56,7 @@
 </div>
 
 <br />
-
+*/}
 <h2 align="left">🔥 My Stats :</h2>
 <br />
 <div align="center">
